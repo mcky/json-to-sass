@@ -11,5 +11,12 @@
 	"color10": "#4728A2",
 	"color11": "#7E05CE",
 	"color12": "#892103",
-	"color13": "#606060"
+	"obj": {
+		"one": "#606060",
+		"two": "rebeccapurple"
+	},
+	"arr": [
+		"#ff00cc",
+		"rgba(250,0,0,.5)"
+		]
 }
