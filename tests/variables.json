@@ -15,8 +15,24 @@
 		"one": "#606060",
 		"two": "rebeccapurple"
 	},
+	"config": {
+		"themes": {
+			"base": "yellow",
+			"mist": {
+				"header": "#dcfac0",
+				"content": "#00968b",
+				"footer": "#85c79c"
+			},
+			"spring" : {
+				"header": "#f4fac7",
+				"content": "#c2454e",
+				"footer": "#ffb158"
+			}
+		}
+	},
 	"arr": [
 		"#ff00cc",
-		"rgba(250,0,0,.5)"
-		]
+		"rgba(250,0,0,.5)",
+		["blue", "green"]
+	]
 }
